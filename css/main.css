@@ -46,22 +46,22 @@ a{
 }
 
 a:link {
-	color: #9900ff;
+	color: #8b4513;
 	text-decoration: none;
 }
 
 a:hover {
-	background-color: #9900ff;
+	background-color: #8b4513;
 	color: #000000;
 }
 
 a:visited {
-	color: #9900ff;
+	color: #8b4513;
 	text-decoration: none;
 }
 
 a:hover {
-	background-color: #9900ff;
+	background-color: #8b4513;
 	color: #ffffff;
 }
 
